@@ -1,8 +1,8 @@
 <h1 align="center">Hey Everyone, I am Rajat Sharma</h1>
-<h3 align="center">Full-Stack Developer | DSA Enthusiast | AI Learner</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Java and DSA | AI Learner</h3>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=900&lines=B.Tech+Student+in+Computer+Science;Building+Real-World+Projects;Java+%7C+DSA+%7C+Web+Development;Learning+Spring+Boot+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=980&lines=Computer+Science+Student+%7C+Full-Stack+Developer;Java+%7C+Data+Structures+and+Algorithms;Building+Practical+Web+Projects;Learning+Spring+Boot%2C+System+Design%2C+and+AI" alt="Typing SVG" />
   <br />
 </h2>
 
@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  I am focused on software development fundamentals, problem solving, and building practical products that combine clean engineering with useful outcomes.
+  I am a Computer Science student focused on software engineering fundamentals, data structures and algorithms, and full-stack project development with a strong learning mindset.
 </p>
 
-- I am currently working on portfolio and DSA-focused projects
-- I am looking to collaborate on Java and web development projects
-- I am currently learning Spring Boot, system design basics, and AI workflows
+- I am currently building portfolio-grade projects and improving problem solving through DSA
+- I am open to collaboration on Java, backend, and full-stack web development projects
+- I am currently learning Spring Boot, system design, and practical AI workflows
 
 ### Languages
 
@@ -64,8 +64,8 @@
 
 | Project                                                      | Description                                            | Tech Stack            |
 | :----------------------------------------------------------- | :----------------------------------------------------- | :-------------------- |
-| [Portfolio Website](https://github.com/RajatSharma404)       | Personal portfolio highlighting projects and skills.   | HTML, CSS, JavaScript |
-| [DSA Practice Repository](https://github.com/RajatSharma404) | Daily DSA solutions and pattern-based problem solving. | Java, C++             |
+| [Portfolio Website](https://github.com/RajatSharma404)       | Professional portfolio showcasing projects, technical stack, and development journey. | HTML, CSS, JavaScript |
+| [DSA Practice Repository](https://github.com/RajatSharma404) | Structured DSA practice with consistent problem solving and pattern-oriented approaches. | Java, C++             |
 
 ---
 
@@ -110,6 +110,8 @@
 
 <p align="center">
   <a href="https://github.com/RajatSharma404">GitHub</a> |
-  <a href="https://www.linkedin.com">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/rajat-sharma-9a053128b">LinkedIn</a> |
+  <a href="https://www.instagram.com/btw.rajat625/">Instagram</a> |
+  <a href="https://www.reddit.com/user/Open_Rabbit_7846/">Reddit</a> |
   <a href="mailto:rajatsharma@email.com">Email</a>
 </p>
