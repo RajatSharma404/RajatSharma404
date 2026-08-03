@@ -1,0 +1,5 @@
+Place your profile image here with this exact filename:
+
+profile-photo.png
+
+README.md already references ./assets/profile-photo.png
