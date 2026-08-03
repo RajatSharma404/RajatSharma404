@@ -9,7 +9,7 @@
 <h1 align="center">Discipline beats motivation. Small progress every day builds big results.</h1>
 
 <p align="center">
-  <img src="./photo.png" alt="Rajat Sharma" width="300" />
+  <img src="./assets/cyber-hero.png" alt="Rajat Sharma cyber profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
 - I am currently learning Spring Boot, system design basics, and AI workflows
 
 ### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -29,6 +30,7 @@
 </p>
 
 ### AI and Machine Learning
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -37,6 +39,7 @@
 </p>
 
 ### Frontend and Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,6 +49,7 @@
 </p>
 
 ### Tools and Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,10 +62,10 @@
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [Portfolio Website](https://github.com/RajatSharma404) | Personal portfolio highlighting projects and skills. | HTML, CSS, JavaScript |
-| [DSA Practice Repository](https://github.com/RajatSharma404) | Daily DSA solutions and pattern-based problem solving. | Java, C++ |
+| Project                                                      | Description                                            | Tech Stack            |
+| :----------------------------------------------------------- | :----------------------------------------------------- | :-------------------- |
+| [Portfolio Website](https://github.com/RajatSharma404)       | Personal portfolio highlighting projects and skills.   | HTML, CSS, JavaScript |
+| [DSA Practice Repository](https://github.com/RajatSharma404) | Daily DSA solutions and pattern-based problem solving. | Java, C++             |
 
 ---
 
