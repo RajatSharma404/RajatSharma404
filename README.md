@@ -62,9 +62,9 @@
 
 ## Featured Projects
 
-| Project                                                      | Description                                            | Tech Stack            |
-| :----------------------------------------------------------- | :----------------------------------------------------- | :-------------------- |
-| [Portfolio Website](https://github.com/RajatSharma404)       | Professional portfolio showcasing projects, technical stack, and development journey. | HTML, CSS, JavaScript |
+| Project                                                      | Description                                                                              | Tech Stack            |
+| :----------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :-------------------- |
+| [Portfolio Website](https://github.com/RajatSharma404)       | Professional portfolio showcasing projects, technical stack, and development journey.    | HTML, CSS, JavaScript |
 | [DSA Practice Repository](https://github.com/RajatSharma404) | Structured DSA practice with consistent problem solving and pattern-oriented approaches. | Java, C++             |
 
 ---
@@ -77,15 +77,15 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajatSharma404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Rajat's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RajatSharma404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Rajat's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RajatSharma404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RajatSharma404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajatSharma404&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=RajatSharma404&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RajatSharma404&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,14 +94,6 @@
 
 <p align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/RajatSharma404?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large" alt="3D Contribution Graph" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajatSharma404/RajatSharma404/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
