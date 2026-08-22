@@ -62,10 +62,17 @@
 
 ## Featured Projects
 
-| Project                                                      | Description                                                                              | Tech Stack            |
-| :----------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :-------------------- |
-| [Portfolio Website](https://github.com/RajatSharma404)       | Professional portfolio showcasing projects, technical stack, and development journey.    | HTML, CSS, JavaScript |
-| [DSA Practice Repository](https://github.com/RajatSharma404) | Structured DSA practice with consistent problem solving and pattern-oriented approaches. | Java, C++             |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Ghost AI**](https://github.com/RajatSharma404/ghost-ai) · [Demo](https://ghost-ai-omega-ten.vercel.app) | AI-powered modern web platform featuring intelligent workflows and interactive tools. | Next.js 16, React, TypeScript, Tailwind CSS |
+| [**DSA Tracker Mastery**](https://github.com/RajatSharma404/DSA-Tracker) | Competitive algorithmic tracking ecosystem ("Project Ascend") to monitor problem-solving patterns. | TypeScript, React, Node.js |
+| [**ChessEval**](https://github.com/RajatSharma404/Chess-Eval) | Advanced chess evaluation and position analysis platform powered by Stockfish 17 (WASM) & AI. | TypeScript, React, Stockfish WASM |
+| [**FitFlow (Fitness Roadmap)**](https://github.com/RajatSharma404/Fitness-Roadmap) | Evidence-based RPG fitness and progression platform with gamified habit & workout tracking. | Next.js 16, React 19, TypeScript |
+| [**SkillSync**](https://github.com/RajatSharma404/SkillSync) | AI-powered personal performance scientist analyzing cross-domain metrics (coding, fitness, mood). | TypeScript, React, Node.js, AI |
+| [**Agentic AI**](https://github.com/RajatSharma404/Agentic-AI) | Fully local Agentic AI web app executing autonomous multi-step reasoning with Ollama and FastAPI. | Python, FastAPI, Ollama |
+| [**Interactive Portfolio**](https://github.com/RajatSharma404/Portfolio) · [Demo](https://portfolio-chi-self-31.vercel.app) | VS Code-inspired portfolio featuring an interactive terminal, Copilot-style assistant, and motion UI. | TypeScript, React, Framer Motion |
+| [**Finance Track**](https://github.com/RajatSharma404/Finance_track) · [Demo](https://finance-track-three.vercel.app) | Full-stack personal finance and expense tracking application with budget visualization and analytics. | React, Node.js, Express, MongoDB |
+| [**IoT MCU Programmer**](https://github.com/RajatSharma404/IoT-MCU-programmer) | Flask-based IoT device simulator with real-time hardware component emulation. | Python, Flask |
 
 ---
 
