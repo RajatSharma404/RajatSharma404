@@ -1,24 +1,30 @@
 <div align="center">
   <h1>Hey Everyone, I am Rajat Sharma 👋</h1>
-  <h3>Computer Science Student | Full-Stack Software Engineer | Java & DSA Specialist | AI Enthusiast</h3>
+  <h3>Co-Founder & Frontend Engineer @ Pradite | React · TypeScript · Web Architecture</h3>
 
   <p>
-    <a href="https://portfolio-chi-self-31.vercel.app">
+    <a href="https://pradite.com" target="_blank">
+      <img src="https://img.shields.io/badge/Pradite-Co--Founder-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Pradite" />
+    </a>
+    <a href="https://portfolio-chi-self-31.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/rajat-sharma-9a053128b">
+    <a href="https://www.linkedin.com/in/rajat-sharma-9a053128b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/RajatSharma404">
+    <a href="https://github.com/RajatSharma404" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:rajatsharma@email.com">
+    <a href="mailto:rajat.sharma.myid1@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://leetcode.com/u/RajatSharma404/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=980&lines=Computer+Science+Student+%7C+Full-Stack+Engineer;Java+%7C+Data+Structures+%26+Algorithms;Building+High-Performance+Web+Ecosystems;Local+Agentic+AI+%26+Intelligent+Workflows;System+Design%2C+Microservices+%26+Spring+Boot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=980&lines=Co-Founder+%26+Frontend+Engineer+%40+Pradite;Building+Next-Gen+Privacy-First+AI+Developer+Tools;React+%7C+TypeScript+%7C+Modern+Web+Architecture;B.Tech+Artificial+Intelligence+%40+AKTU;500%2B+DSA+Problems+Solved+%7C+System+Design+%26+FastAPI" alt="Typing SVG" />
   </p>
 </div>
 
@@ -32,34 +38,60 @@
 
 > *"Discipline beats motivation. Small, consistent progress every single day compounds into extraordinary results."*
 
-- 🔭 **What I'm Building**: End-to-end full-stack platforms, developer productivity tools, and local **Agentic AI** ecosystems.
-- 🧠 **Algorithmic Mastery**: Rigorous problem solver with structured DSA practice in **Java & C++**, emphasizing clean pattern-oriented approaches.
-- ⚙️ **Core Tech Stack**: **TypeScript**, **React 19**, **Next.js 16**, **Node.js/Express**, **FastAPI**, **Spring Boot**, **WebAssembly**, and **MongoDB/MySQL/PostgreSQL**.
-- 🤖 **AI & Autonomous Systems**: Implementing offline local agent workflows using **Ollama**, **FastAPI**, and modern AI reasoning techniques.
-- 🤝 **Collaboration & Open Source**: Enthusiastic about collaborating on backend architectures, high-traffic web applications, and AI developer tooling.
+- 🚀 **Current Venture**: Co-Founder & Frontend Engineer at [**Pradite**](https://pradite.com/) — building privacy-first AI developer tools where user code never touches external servers and memory is encrypted client-side.
+- 🏗️ **Core Engineering Stack**: **TypeScript**, **React 19**, **Next.js 16**, **Software & Web Architecture**, **Node.js/Express**, **FastAPI**, **Spring Boot**, and **WebAssembly**.
+- 🎨 **Product & UI/UX Mastery**: Specializing in browser-native interfaces, high-performance client rendering, and seamless frontend integrations for machine learning backends.
+- 🧠 **Algorithmic Rigor**: 500+ DSA problems solved across platforms with deep focus on pattern recognition, time/space optimization, and robust systems design in **Java & C++**.
+- 🎓 **Academic Foundation**: Pursuing **B.Tech in Artificial Intelligence** (2023 – 2027) at Dr. A.P.J. Abdul Kalam Technical University (AKTU / KIT).
+
+---
+
+## 💼 Experience & Leadership
+
+```yaml
+Company: Pradite (https://pradite.com/)
+Role: Co-Founder & Frontend Engineer
+Timeline: June 2026 – Present
+Location: Kanpur / Delhi, India
+Focus: Privacy-First AI Developer Tools · Web Architecture · High-Performance UI
+```
+
+- **Frontend Architecture**: Leading the end-to-end web client engineering and browser-native application workflows.
+- **ML Integration**: Architecting secure, real-time client-side integrations with machine learning inference backends.
+- **Performance & Security**: Implementing zero-knowledge client encryption, aggressive bundle optimization, and robust application security.
+
+---
+
+## 🎓 Education
+
+| Institution | Degree / Program | Specialization | Timeline |
+| :--- | :--- | :--- | :--- |
+| **Dr. A.P.J. Abdul Kalam Technical University (AKTU)** | **Bachelor of Technology (B.Tech)** | Artificial Intelligence | 2023 – 2027 |
 
 ---
 
 ## 🛠️ Technical Skills & Ecosystem
 
-### 💻 Programming Languages
+### 💻 Core Specializations
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Software_Architecture-6366F1?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🎨 Frontend & UI Architecture
+### 🎨 Frontend & Web Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### ⚙️ Backend, Systems & APIs
@@ -117,10 +149,11 @@
 
 ---
 
-## 🚀 Featured Projects Catalog
+## 🚀 Featured Projects & Ventures
 
 | Category | Project | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| **Startup / Venture** | [**Pradite**](https://pradite.com/) 🚀 | Next-gen privacy-first AI developer tools where code never leaves the client and memory is user-encrypted. | React, TypeScript, Web Architecture, ML Integration |
 | **AI Platforms** | [**Ghost AI**](https://github.com/RajatSharma404/ghost-ai) · [Live Demo](https://ghost-ai-omega-ten.vercel.app) | Modern AI-powered web platform with intelligent workflows and real-time generation tools. | Next.js 16, React, TypeScript, Tailwind CSS |
 | **AI Platforms** | [**SkillSync**](https://github.com/RajatSharma404/SkillSync) | Personal performance scientist analyzing cross-domain metrics (coding, fitness, mood) for actionable insights. | TypeScript, React, Node.js, AI Workflows |
 | **AI Platforms** | [**Agentic AI**](https://github.com/RajatSharma404/Agentic-AI) | Fully local Agentic AI web app executing autonomous multi-step reasoning with Ollama and FastAPI. | Python, FastAPI, Ollama |
@@ -166,6 +199,9 @@
 ## 📬 Let's Connect & Collaborate
 
 <p align="center">
+  <a href="https://pradite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pradite-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Pradite" />
+  </a>
   <a href="https://portfolio-chi-self-31.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20F7F7?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
@@ -175,17 +211,17 @@
   <a href="https://github.com/RajatSharma404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:rajatsharma@email.com" target="_blank">
+  <a href="mailto:rajat.sharma.myid1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/btw.rajat625/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://leetcode.com/u/RajatSharma404/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.reddit.com/user/Open_Rabbit_7846/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  <a href="https://x.com/RajatSharma404" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Designed with ❤️ by Rajat Sharma · Constantly evolving & shipping code.</sub>
+  <sub>Co-Founder @ Pradite · Constantly building & shipping next-gen developer tools.</sub>
 </p>
