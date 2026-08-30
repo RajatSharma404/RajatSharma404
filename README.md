@@ -150,7 +150,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajatSharma404&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=RajatSharma404&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
