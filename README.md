@@ -24,7 +24,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=980&lines=Co-Founder+%26+Frontend+Engineer+%40+Pradite;Building+Next-Gen+Privacy-First+AI+Developer+Tools;React+%7C+TypeScript+%7C+Modern+Web+Architecture;B.Tech+Artificial+Intelligence+%40+AKTU;500%2B+DSA+Problems+Solved+%7C+System+Design+%26+FastAPI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=20F7F7&center=true&vCenter=true&width=980&lines=Co-Founder+%26+Frontend+Engineer+%40+Pradite;Building+Next-Gen+Privacy-First+AI+Developer+Tools;React+%7C+TypeScript+%7C+Modern+Web+Architecture;B.Tech+Computer+Science+%40+KIT+(AKTU);500%2B+DSA+Problems+Solved+%7C+System+Design+%26+FastAPI" alt="Typing SVG" />
   </p>
 </div>
 
@@ -39,10 +39,10 @@
 > *"Discipline beats motivation. Small, consistent progress every single day compounds into extraordinary results."*
 
 - 🚀 **Current Venture**: Co-Founder & Frontend Engineer at [**Pradite**](https://pradite.com/) — building privacy-first AI developer tools where user code never touches external servers and memory is encrypted client-side.
-- 🏗️ **Core Engineering Stack**: **TypeScript**, **React 19**, **Next.js 16**, **Software & Web Architecture**, **Node.js/Express**, **FastAPI**, **Spring Boot**, and **WebAssembly**.
+- 🏗️ **Core Engineering Stack**: **TypeScript**, **React 19**, **Next.js 16**, **Software & Web Architecture**, **Node.js/Express**, **FastAPI**, **Flask**, and **WebAssembly**.
 - 🎨 **Product & UI/UX Mastery**: Specializing in browser-native interfaces, high-performance client rendering, and seamless frontend integrations for machine learning backends.
 - 🧠 **Algorithmic Rigor**: 500+ DSA problems solved across platforms with deep focus on pattern recognition, time/space optimization, and robust systems design in **Java & C++**.
-- 🎓 **Academic Foundation**: Pursuing **B.Tech in Artificial Intelligence** (2023 – 2027) at Dr. A.P.J. Abdul Kalam Technical University (AKTU / KIT).
+- 🎓 **Academic Foundation**: Pursuing **B.Tech in Computer Science** (2023 – 2027) at Kanpur Institute of Technology (AKTU).
 
 ---
 
@@ -60,13 +60,27 @@ Focus: Privacy-First AI Developer Tools · Web Architecture · High-Performance 
 - **ML Integration**: Architecting secure, real-time client-side integrations with machine learning inference backends.
 - **Performance & Security**: Implementing zero-knowledge client encryption, aggressive bundle optimization, and robust application security.
 
+<br />
+
+```yaml
+Company: Sparqor Technologies
+Role: Software Engineer Intern
+Timeline: May 2026 – July 2026 (Certificate: July 22, 2026)
+Location: Remote / Digital Product Studio
+Focus: Full-Stack Development · Web Platforms · Agile Delivery
+```
+
+- **Full-Stack Engineering**: Developed modular web features, client interfaces, and backend integration services under a fast-paced digital product studio environment.
+- **API & Systems**: Built RESTful API endpoints, optimized client state handling, and ensured responsive cross-browser compatibility.
+- **Delivery & Quality**: Participated in sprint planning, code reviews, and continuous product iteration to ship production features on time.
+
 ---
 
 ## 🎓 Education
 
 | Institution | Degree / Program | Specialization | Timeline |
 | :--- | :--- | :--- | :--- |
-| **Dr. A.P.J. Abdul Kalam Technical University (AKTU)** | **Bachelor of Technology (B.Tech)** | Artificial Intelligence | 2023 – 2027 |
+| **Kanpur Institute of Technology (AKTU)** | **Bachelor of Technology (B.Tech)** | Computer Science | 2023 – 2027 |
 
 ---
 
@@ -100,24 +114,21 @@ Focus: Privacy-First AI Developer Tools · Web Architecture · High-Performance 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
 </p>
 
-### 🤖 AI, Machine Learning & Intelligent Agents
+### 🤖 AI & Autonomous Agents
 <p align="center">
   <img src="https://img.shields.io/badge/Ollama_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
 </p>
 
 ### 🗄️ Databases, Cloud & DevOps Tooling
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -155,13 +166,12 @@ Focus: Privacy-First AI Developer Tools · Web Architecture · High-Performance 
 | :--- | :--- | :--- | :--- |
 | **Startup / Venture** | [**Pradite**](https://pradite.com/) 🚀 | Next-gen privacy-first AI developer tools where code never leaves the client and memory is user-encrypted. | React, TypeScript, Web Architecture, ML Integration |
 | **AI Platforms** | [**Ghost AI**](https://github.com/RajatSharma404/ghost-ai) · [Live Demo](https://ghost-ai-omega-ten.vercel.app) | Modern AI-powered web platform with intelligent workflows and real-time generation tools. | Next.js 16, React, TypeScript, Tailwind CSS |
-| **AI Platforms** | [**SkillSync**](https://github.com/RajatSharma404/SkillSync) | Personal performance scientist analyzing cross-domain metrics (coding, fitness, mood) for actionable insights. | TypeScript, React, Node.js, AI Workflows |
-| **AI Platforms** | [**Agentic AI**](https://github.com/RajatSharma404/Agentic-AI) | Fully local Agentic AI web app executing autonomous multi-step reasoning with Ollama and FastAPI. | Python, FastAPI, Ollama |
 | **Algorithms & Engines** | [**DSA Tracker Mastery**](https://github.com/RajatSharma404/DSA-Tracker) ⭐ | Competitive algorithmic tracking ecosystem (*"Project Ascend"*) to monitor problem-solving patterns. | TypeScript, React, Node.js, DSA Patterns |
 | **Algorithms & Engines** | [**ChessEval**](https://github.com/RajatSharma404/Chess-Eval) | Advanced chess evaluation and position analysis platform powered by Stockfish 17 (WASM) and AI engine. | TypeScript, React, Stockfish 17 WASM |
 | **Web Apps & Systems** | [**FitFlow (Fitness Roadmap)**](https://github.com/RajatSharma404/Fitness-Roadmap) | Evidence-based RPG fitness and progression platform with gamified habit & workout tracking. | Next.js 16, React 19, TypeScript |
 | **Web Apps & Systems** | [**Interactive Portfolio**](https://github.com/RajatSharma404/Portfolio) · [Live Demo](https://portfolio-chi-self-31.vercel.app) | VS Code-inspired interactive developer portfolio featuring embedded terminal, AI Copilot, and motion UI. | TypeScript, React, Framer Motion |
-| **Web Apps & Systems** | [**Finance Track**](https://github.com/RajatSharma404/Finance_track) · [Live Demo](https://finance-track-three.vercel.app) | Full-stack personal finance and expense tracking application with budget visualization and analytics. | React, Node.js, Express, MongoDB |
+| **AI Platforms** | [**SkillSync**](https://github.com/RajatSharma404/SkillSync) | Personal performance scientist analyzing cross-domain metrics (coding, fitness, mood) for actionable insights. | TypeScript, React, Node.js, AI Workflows |
+| **AI Platforms** | [**Agentic AI**](https://github.com/RajatSharma404/Agentic-AI) | Fully local Agentic AI web app executing autonomous multi-step reasoning with Ollama and FastAPI. | Python, FastAPI, Ollama |
 | **Hardware & Systems** | [**IoT MCU Programmer**](https://github.com/RajatSharma404/IoT-MCU-programmer) | Flask-based IoT device simulator with real-time hardware component emulation. | Python, Flask, IoT Simulation |
 
 ---
